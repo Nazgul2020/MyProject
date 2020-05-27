@@ -1,0 +1,20 @@
+// NOTE: I added the .js extension to this gist so it would have syntax highlighting. This file should have NO file extension
+
+{
+    "camelcase" :true,
+    "indent"        : 2,       // Specify indentation spacing
+    "undef"         : true,   // Require all non-global variables be declared before they are used.
+    "quotmark" :false,
+    "maxlen"   :120,
+    "trailing"      : true,   // Prohibit trailing whitespaces.
+    "curly"         : true,   // Require {} for every new block or scope.
+    "strict"        : false,  // Require `use strict` pragma  in every file.
+    "browser"       : true,   // Standard browser globals e.g. `window`, `document`.
+    "devel"         : true,   // Allow developments statements e.g. `console.log();`.
+    "jquery"        : true,
+    "esversion" :8,
+    "node"          : true
+
+    
+    
+}
